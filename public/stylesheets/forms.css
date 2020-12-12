@@ -1,0 +1,14 @@
+/*form of register*/
+.form-register {
+    display: block;
+    
+    font: normal normal normal 12px/14px Helvetica Neue;
+  }
+
+/*form of share*/
+.form-share {
+    display: block;
+    margin-bottom: 80px;
+  }
+
+ 

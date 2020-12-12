@@ -1,0 +1,71 @@
+main {
+    opacity: 1;
+    color: #888888;
+  
+    width: 100vw;
+    height: 80vh;
+  }
+  
+  .container-help-register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .help {
+    width: 52vw;
+    height: 22vh;
+  
+    font: normal normal normal 12px/18px Helvetica Neue;
+    letter-spacing: 0px;
+  }
+  .help p {
+    width: 52vw;
+    height: 22vh;
+  
+    text-align: left;
+  }
+  
+  .help h1 {
+    width: 33.2vw;
+    height: 2.3vh;
+    text-align: left;
+    font: normal normal normal 20px/24px Helvetica Neue;
+    letter-spacing: 0px;
+  }
+  
+  .help h2 {
+    width: 52vw;
+    height: 22vh;
+    text-align: left;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    letter-spacing: 0px;
+  }
+
+  .register {
+    width: 34vw;
+    height: 27vh;
+  }
+  
+  .products p {
+    text-align: center;
+    font: normal normal bold 18px/16px Helvetica Neue;
+    letter-spacing: 0px;
+  }
+  
+  .share-news {
+    text-align: center;
+    font: normal normal bold 18px/16px Helvetica Neue;
+    letter-spacing: 0px;
+  }
+  
+  .share-news p {
+    margin-bottom: 66px;
+  }
+  
+  .share-news h2 {
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    margin-bottom: 76px;
+  }
