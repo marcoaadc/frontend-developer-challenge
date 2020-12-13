@@ -1,49 +1,66 @@
 header {
-    background: #707070 0% 0% no-repeat padding-box;
-    border: 1px solid #707070;
-    opacity: 1;
-    text-align: center;
+  background: #707070;
+  border: 1px solid #707070;
+  opacity: 1;
+
+  text-align: center;
+
+  width: 100%;
+  height: 100%;
+}
+
+header h2 {
+  font: 20px/24px Helvetica Neue;
+
+  color: #ffffff;
+}
+
+header h1 {
+  font: normal normal bold 40px/49px Helvetica Neue;
+
+  color: #ffffff;
+}
+
+header h3 {
+  font: 14px/16px Helvetica Neue;
+
+  color: #ffffff;
+}
+
+.navbar{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+}
+
+.navbar-item {
+  display: flex;
   
-    width: 100vw;
-    height: 40vh;
-  }
-  
-  header h2 {
-    font: normal normal normal 20px/24px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #ffffff;
-  }
-  
-  header h1 {
-    font: normal normal bold 40px/49px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #ffffff;
-  }
-  
-  header h3 { 
-    font: normal normal normal 14px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #ffffff;
-  }
-  
-  .navbar-item {
-    display: flex;
-    justify-content: space-evenly;
-  }
-  
-  .nav-item {
-    display: flex;
-    background: white;
-  }
-  
-  .nav-link {
-    text-decoration: none;
-    text-align: center;
-    font: normal normal normal 14px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
-  
-    width: 16vw;
-    height: 4vh;
-  }
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #ffffff;
+  box-shadow: 0px 1px 6px #00000029;
+  border: 1px solid #707070;
+  border-radius: 0.3rem;
+
+  width: 10vw;
+  height: 4vh;
+}
+
+.nav-link {
+  text-decoration: none;
+  text-align: center;
+  font: 14px/16px Helvetica Neue;
+
+  color: #888888;
+  opacity: 1;
+
+
+}

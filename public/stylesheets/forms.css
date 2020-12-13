@@ -8,7 +8,14 @@
 /*form of share*/
 .form-share {
     display: block;
-    margin-bottom: 80px;
+    margin-bottom: 8vh;
+
+    text-align: left
   }
 
+  /*input forms*/
+
+  .input-form{
+    width:100%;
+  }
  
