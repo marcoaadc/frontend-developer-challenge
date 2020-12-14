@@ -8,3 +8,13 @@
   border: 1px solid #707070;
   border-radius: 0.3rem;
 }
+
+/*buttons products*/
+.btn-products{
+  width: 7vw;
+  height: 2vh;
+  opacity: 1;
+  background: #ffffff;
+  border: 1px solid #707070;
+  border-radius: 0.3rem;
+}
