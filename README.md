@@ -9,3 +9,6 @@ Comecei a integrar os produtos, mas não consegui terminar, então cadastrei man
 Fiz a página do e-mail, mas não consegui terminar.
 
 O repositório está sem as dependências (node modules), então para iniciar precisa dar um npm install.
+
+Live Preview
+https://marcoaadc.herokuapp.com/#share-news
